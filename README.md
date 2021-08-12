@@ -6,10 +6,10 @@ Here's a Data-Analysis project of Human Resource using Power-BI. It has buttons 
 
 # These are some Screenshot of the Report.
 <img src="https://github.com/06Reetu/PowerBi/blob/main/retail/s1.png" alt="alt text" height=300 width="500"/>         
-<img src="https://github.com/06Reetu/PowerBi/blob/main/retail/s2.png" alt="alt text"  height=300 width="500"/>  
-<img src="https://github.com/06Reetu/Browser/blob/main/retail/s3.png" alt="alt text" height=300 width="500"/>  
-<img src="https://github.com/06Reetu/Browser/blob/main/retail/s4.png" alt="alt text" height=300 width="500"/>  
-<img src="https://github.com/06Reetu/Browser/blob/main/retail/s5.png" alt="alt text" height=300 width="500"/>  
+<img src="https://github.com/06Reetu/PowerBi/blob/main/retail/s2.png" alt="alt text" height=300 width="500"/>  
+<img src="https://github.com/06Reetu/PowerBi/blob/main/retail/s3.png" alt="alt text" height=300 width="500"/>         
+<img src="https://github.com/06Reetu/PowerBi/blob/main/retail/s4.png" alt="alt text" height=300 width="500"/>      
+<img src="https://github.com/06Reetu/PowerBi/blob/main/retail/s5.png" alt="alt text" height=300 width="500"/>  
 
 Please do ⭐ the repository, if you like this.😊
 
