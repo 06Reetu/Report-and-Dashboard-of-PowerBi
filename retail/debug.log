@@ -1,0 +1,2 @@
+[0812/192000.374:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0812/192000.398:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Bubu\AppData\Local\Power BI Desktop\User Data\Crashpad\attachments\7eb14cbd-a6b3-49e9-beb9-4866839ccd94: The system cannot find the path specified. (0x3)
